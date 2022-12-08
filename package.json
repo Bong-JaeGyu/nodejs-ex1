@@ -21,10 +21,10 @@
   "homepage": "https://github.com/Bong-JaeGyu/nodevue#readme",
   "dependencies": {
     "bluebird": "^3.5.4",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "crypto-js": "^3.1.9-1",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "hashmap": "^2.3.0",
     "mysql": "^2.16.0",
     "mysql2": "^1.6.5",
